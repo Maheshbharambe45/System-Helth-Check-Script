@@ -14,7 +14,7 @@ To run the Script ...
 
 Required Packages
 
-mailutils (or bsd-mailx) — for sending email
+mailutils (or bsd-mailx) — for sending email <br>
 systemd (for systemctl)
 
 ```bash
